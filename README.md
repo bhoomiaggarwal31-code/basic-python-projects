@@ -1,5 +1,6 @@
-# basic-python-projects
+# Basic-python-projects
 My learning projects while exploring python 
+
 ## What i am learning
 - How to create repository
 - How to edit README files
